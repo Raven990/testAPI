@@ -1,4 +1,8 @@
 [
-	{"name": "Sabina"},
-	{"name": "Jane"}
+   {
+      "name":"Sabina"
+   },
+   {
+      "name":"Jane"
+   }
 ]
